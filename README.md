@@ -6,4 +6,4 @@ game records saved to .txt file
 
 ![rules](./markdown%20images/game%20over.png)
 
-![game over](./markdown images/game over.png)
+![game over](./markdown%20images/rules.PNG)
